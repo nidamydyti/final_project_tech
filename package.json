@@ -1,0 +1,23 @@
+{
+  "name": "final_project_tech",
+  "version": "1.0.0",
+  "description": "First Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidamydyti/final_project_tech.git"
+  },
+  "author": "Nida Mydyti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidamydyti/final_project_tech/issues"
+  },
+  "homepage": "https://github.com/nidamydyti/final_project_tech#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
